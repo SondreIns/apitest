@@ -1,0 +1,14 @@
+C:\Users\Fyrre\Documents\Kodehode\apitest\bin\Debug\net10.0\apitest.exe
+C:\Users\Fyrre\Documents\Kodehode\apitest\bin\Debug\net10.0\apitest.deps.json
+C:\Users\Fyrre\Documents\Kodehode\apitest\bin\Debug\net10.0\apitest.runtimeconfig.json
+C:\Users\Fyrre\Documents\Kodehode\apitest\bin\Debug\net10.0\apitest.dll
+C:\Users\Fyrre\Documents\Kodehode\apitest\bin\Debug\net10.0\apitest.pdb
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.AssemblyInfoInputs.cache
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.AssemblyInfo.cs
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.csproj.CoreCompileInputs.cache
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.dll
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\refint\apitest.dll
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.pdb
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\apitest.genruntimeconfig.cache
+C:\Users\Fyrre\Documents\Kodehode\apitest\obj\Debug\net10.0\ref\apitest.dll
