@@ -16,7 +16,10 @@ public class ApiHandler
             Console.WriteLine("Joke found.");
             Console.WriteLine();
             if (root.setup != null) Console.WriteLine(root.setup);
+            else Console.WriteLine("Setup didn't load");
             if (root.delivery != null) Console.WriteLine(root.delivery);
+            else Console.WriteLine("Delivery didnt load");
         }
+        else Console.WriteLine("joke not found");
     }
 }
